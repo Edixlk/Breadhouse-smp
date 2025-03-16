@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "b581011a88cdd59e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cdb119c6367871",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e3b83ef96f0385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website for minecraft server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Website for minecraft server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "922d40fdfa3ae561",
+    "type": "split",
+    "children": [
+      {
+        "id": "b866917f506331c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e41b845afef1ddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8d1e32b1b855f60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b50c4f582d74c3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0fd276a272f48861",
+    "type": "split",
+    "children": [
+      {
+        "id": "afc982f2fd12bfdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dcebc5a70bf0584",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Website for minecraft server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Website for minecraft server"
+            }
+          },
+          {
+            "id": "21b5ee79e8aa75d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Website for minecraft server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Website for minecraft server"
+            }
+          },
+          {
+            "id": "a4db85390dc548fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a241615a840bd467",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Website for minecraft server.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Website for minecraft server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3e3b83ef96f0385",
+  "lastOpenFiles": [
+    "assets/fonts/MinecraftStandard.otf",
+    "assets/fonts/MinecraftStandardBold.otf",
+    "assets/fonts/MinecraftStandardOblique.otf",
+    "assets/fonts/Minecraft-Seven_v2.ttf",
+    "assets/fonts",
+    "assets/favicon/favicon.ico",
+    "assets/images/nav_logo.png",
+    "assets/favicon.png",
+    "assets/nav_logo.png",
+    "assets/favicon",
+    "assets/New folder",
+    "assets/images",
+    "assets",
+    "New folder",
+    "Website for minecraft server.md"
+  ]
+}
