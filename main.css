@@ -81,9 +81,28 @@ nav ul a:hover {
 
 main {
     color: white;
-    padding: 3em 2em;
+    padding: 2em ;
+    height: 40dvh;
+    display: flex;
+    justify-content: center;
 }
 
 main h1 {
-   text-align: center;
+    text-align: center;
+   margin-bottom: 1em;
+   font-size: 2rem;
+   width: 100%;
+}
+
+
+main a {
+    background-color: rgb(138, 136, 136);
+    padding: 10px 16px;
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+}
+
+main a:hover {
+    background-color: rgb(97, 94, 94);
 }
