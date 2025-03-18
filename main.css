@@ -28,6 +28,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    border: 1px solid rgba(255, 0, 0, 0.413);
     font-family: font1;
 }
 
@@ -53,7 +54,6 @@ header img {
 }
 
 nav {
-    width: 100%;
     background: linear-gradient(180deg, rgba(112,112,112,1) 0%, rgba(253,255,255,1) 93%);
     position: sticky;
     top: 0px;
@@ -62,13 +62,14 @@ nav {
 nav ul {
     display: flex;
     justify-content: center;
+  
 }
 
 
 nav ul a {
     color: rgb(47, 47, 47);
     display: block;
-    padding: 1em 1.4em;
+   padding: 0.5em;
     font-size: 1rem;
     border-left: 1px solid rgba(47, 47, 47, 0.473);
     border-right: 1px solid rgba(47, 47, 47, 0.473);
